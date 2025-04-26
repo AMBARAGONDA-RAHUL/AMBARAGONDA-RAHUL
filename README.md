@@ -14,8 +14,8 @@
 
 ### - Super Powers :
 
-- ✨ Python, R, C++, JavaScript
-- ✨ Web Scrapping, Django, Flask
+ ✨ Python, R, C++, JavaScript
+ ✨ Web Scrapping, Django, Flask
 
 ### - Hobbies :
 
