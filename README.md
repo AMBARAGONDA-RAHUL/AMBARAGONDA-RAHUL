@@ -6,97 +6,87 @@
   <img width="720" height="200" src=Add-ons/218883.gif>
 </div>
 
-# About ME 💬 :
+# THIS IS RAHUL ⚡
 
-### - I'm 21 years old Python Developer and undergraduate at IIT Roorkee from India.
+### - 21 year old Cloud DevOps Engineer wielding Thunder Breathing techniques from India
 
-<img alt="gojo" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/tenor.gif">
+<img alt="zenitsu" align="right" src="https://media1.giphy.com/media/VEzYdo930nTiTuVeMU/giphy.gif" width="300">
 
-### - Super Powers :
+### - Thunder Breathing Forms :
 
- ✨ Python, R, C++, JavaScript
- ✨ Web Scrapping, Django, Flask
+ ⚡ Cloud Infrastructure (AWS/Azure/GCP)  
+ ⚡ Kubernetes & Terraform  
+ ⚡ CI/CD Lightning Strikes  
+ ⚡ Python & Bash Scripting
 
-### - Hobbies :
+### - When Not Slaying Cloud Demons :
 
-- ✨ Watching Anime
-- ✨ Freelancing
-- ✨ Travelling/Photography
+ ⚡ Binging Demon Slayer  
+ ⚡ Gaming (FFXIV/Valorant)  
+ ⚡ Photography Adventures  
 
 </br>
 </br>
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
+# NICHIRIN TOOLS ⚔️
 
 </br>
 
 <p align="center">
-   <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-  </a>
-     <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>   
   <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>   
-  <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" style="filter: drop-shadow(0 0 5px #FF9900);">
   </a>
   <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/r.svg" alt="r" style="vertical-align:top; margin:6px 4px">
-   <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/cloud.svg" alt="cloud" style="vertical-align:top; margin:6px 4px">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" style="filter: drop-shadow(0 0 5px #0078D4);">
   </a>
-
-   <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/datascience.svg" alt="datascience" style="vertical-align:top; margin:6px 4px">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" style="filter: drop-shadow(0 0 5px #326CE5);">
   </a>
-    <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/aws.svg" alt="aws" style="vertical-align:top; margin:6px 4px">
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" style="filter: drop-shadow(0 0 5px #7B42BC);">
   </a>
-    <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
-  </a> 
   <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
-  </a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="filter: drop-shadow(0 0 5px #3776AB);">
+  </a>
   <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
-  </a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" style="filter: drop-shadow(0 0 5px #4EAA25);">
+  </a>
   <a href="#">
-    <img src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
-  </a> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" style="filter: drop-shadow(0 0 5px #2496ED);">
+  </a>
+  <a href="#">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" style="filter: drop-shadow(0 0 5px #E6522C);">
+  </a>
 </p>
 
 </br>
 </br>
 </br>
 
-# Contact Me :
+# CALL THE THUNDER HASHIRA ⚡
 
 <p>
 </br>
-<img hight="320" width="450" alt="naruto" align="right" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/naruto.gif">
+<img hight="320" width="450" alt="zenitsu-battle" align="right" src="https://media.tenor.com/5DS79Gz0gR8AAAAC/zenitsu-agatsuma-demon-slayer.gif">
 
-Reach out to me for anything, be it for a freelancing your Project, want to discuss different Anime or just some chitchat.
-Click any link form Below, lets have a chat 😉.
+Need lightning-fast cloud solutions? Want to discuss anime or gaming?  
+My DMs are always open for worthy challengers!
 
-  <a href="mailto:agajare@ch.iitr.ac.in">
-    <img align="left" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  <a href="mailto:your.email@example.com">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" style="filter: drop-shadow(0 0 5px #D14836); margin:6px 4px">
   </a>
 
-  <a href="https://www.instagram.com/agajareiitr/">
-    <img align="left" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="filter: drop-shadow(0 0 5px #0077B5); margin:6px 4px">
   </a>  
 </br>
 </br>
 </br>
-  <a href="https://www.linkedin.com/in/agajareiitr/">
-    <img align="left" src="https://github.com/agajareiitr/agajareiitr/blob/main/assets/icons/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  <a href="https://github.com/yourprofile">
+    <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: drop-shadow(0 0 5px #FFFFFF); margin:6px 4px">
   </a>
-  <a href = "https://agajareiitr.github.io" style = "text-decoration:none">Personal Website</a>
+  <a href = "https://yourportfolio.com" style = "color:#FFD700; text-decoration:none">⚡ Personal Dojo</a>
 </p>
 
 </br>
@@ -107,14 +97,8 @@ Click any link form Below, lets have a chat 😉.
 </br>
 </br>
 
-
 <p align="center">
-  <a href="https://github.com/agajareiitr/github-readme-stats"> 
-  <img  src="https://github-readme-stats.vercel.app/api?username=agajareiitr&&show_icons=true&theme=radical&include_all_commits=true"/>
-    </a>
-
-
-
-<!-- <p>Orignal Credit : https://github.com/Xx-Ashutosh-xX</p> -->
-
----
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulAmbaragonda&show_icons=true&theme=dark&title_color=FFD700&icon_color=FFA500&include_all_commits=true"/>
+  </a>
+</p>
