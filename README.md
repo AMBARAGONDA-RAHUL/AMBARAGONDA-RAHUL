@@ -5,7 +5,7 @@
 <div align="center">
   
 <!-- Professional Headshot Section -->
-<img src="./Add-ons/218883.gif" width="400" height="100" alt="Zenitsu Thunder Breathing" style="border-radius: 8px; border: 2px solid #f0f0f0; margin: 20px 0;">
+<img src="./Add-ons/218883.gif" width="700" height="300" alt="Zenitsu Thunder Breathing" style="border-radius: 8px; border: 2px solid #f0f0f0; margin: 20px 0;">
 
 </div>
 <h1 align="center">ABOUT ME</h1>
