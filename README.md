@@ -5,8 +5,7 @@
 <div align="center">
   <img width="720" height="auto" src=Add-ons/FSN.gif>
 </div>
- <img src = "Add-ons/FSN.gif" width = "460px" height="auto" align="center">
-</div>
+
 <br>
 
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
