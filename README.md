@@ -5,7 +5,7 @@
 <div align="center">
   <img width="720" height="200" src=Add-ons/218883.gif>
 </div>
-<img src="./assets/images/herobanner.png">
+
 
 <h1 align="center">ABOUT ME</h1>
 <h3 align="center">Cloud DevOps Engineer | Azure & AWS Specialist | Kubernetes Expert</h3>
