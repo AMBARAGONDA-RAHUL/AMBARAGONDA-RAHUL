@@ -13,7 +13,7 @@ I'm a passionate Software Developer with a strong foundation in software develop
 <br>
 <div>
  <div>
-  <img src="./assets/images/haruhiro.png" align="left" width="200px">
+ 
   <p align="right">
 
    &nbsp;
