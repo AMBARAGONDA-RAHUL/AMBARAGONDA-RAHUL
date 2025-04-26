@@ -7,7 +7,7 @@
 </div>
 <img src="./assets/images/herobanner.png">
 
-<h1 align="center">Rahul Ambaragonda</h1>
+<h1 align="center">ABOUT ME</h1>
 <h3 align="center">Cloud DevOps Engineer | Azure & AWS Specialist | Kubernetes Expert</h3>
 
 I'm a passionate DevOps professional with strong expertise in cloud infrastructure, CI/CD pipelines, and container orchestration. I specialize in building scalable, secure systems using modern technologies.
