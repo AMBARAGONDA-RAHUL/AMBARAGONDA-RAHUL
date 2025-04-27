@@ -66,8 +66,8 @@ I am a Cloud DevOps Engineer with 3+ years of experience specializing in CI/CD a
 <h2 align="center">GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=RahulAmbaragonda&show_icons=true&theme=default&hide_border=true">
+  <a href="https://github.com//github-readme-stats">
+    <img width="45%" src="https:/RAHUL-AMBARAGONDA/github-readme-stats.vercel.app/api?username=RahulAmbaragonda&show_icons=true&theme=default&hide_border=true">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulAmbaragonda&layout=compact&theme=default&hide_border=true">
