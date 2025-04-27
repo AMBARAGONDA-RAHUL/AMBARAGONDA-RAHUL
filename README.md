@@ -20,13 +20,13 @@
 
     <div align="left" style="max-width: 700px; margin: 0 auto; font-size: 1.1rem; color: #555;">
       <ul>
-        <li>🔹 <strong>Cloud Platforms</strong>: AWS (Certified), Azure</li>
-        <li>🔹 <strong>Infrastructure as Code</strong>: Terraform</li>
-        <li>🔹 <strong>Containerization</strong>: Docker, Kubernetes (EKS)</li>
-        <li>🔹 <strong>CI/CD</strong>: GitHub Actions, ArgoCD, DevSecOps</li>
-        <li>🔹 <strong>Monitoring</strong>: Prometheus, Grafana, CloudWatch, ELK</li>
-        <li>🔹 <strong>Languages</strong>: Python, Go, Bash, JavaScript</li>
-        <li>🔹 <strong>Security</strong>: RBAC, IAM, Zero Trust Architectures</li>
+        🔹 <strong>Cloud Platforms</strong>: AWS (Certified), Azure</li>
+        🔹 <strong>Infrastructure as Code</strong>: Terraform</li>
+        🔹 <strong>Containerization</strong>: Docker, Kubernetes (EKS)</li>
+        🔹 <strong>CI/CD</strong>: GitHub Actions, ArgoCD, DevSecOps</li>
+        🔹 <strong>Monitoring</strong>: Prometheus, Grafana, CloudWatch, ELK</li>
+        🔹 <strong>Languages</strong>: Python, Go, Bash, JavaScript</li>
+        🔹 <strong>Security</strong>: RBAC, IAM, Zero Trust Architectures</li>
       </ul>
     </div>
   </div>
