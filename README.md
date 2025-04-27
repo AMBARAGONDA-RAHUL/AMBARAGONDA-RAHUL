@@ -24,11 +24,13 @@ I am a Cloud DevOps Engineer with 3+ years of experience specializing in CI/CD a
 <div align="left" style="max-width: 700px; margin: 0 auto;">
   
 🔹 **Cloud Platforms**: AWS (Certified), Azure, GCP  
-🔹 **Infrastructure as Code**: Terraform, Ansible, Pulumi  
-🔹 **Containerization**: Docker, Kubernetes (EKS, AKS, GKE)  
+🔹 **Infrastructure as Code**: Terraform
+🔹 **Containerization**: Docker, Kubernetes (EKS)  
 🔹 **CI/CD**: GitHub Actions, ArgoCD, Jenkins  
 🔹 **Monitoring**: Prometheus, Grafana, CloudWatch, ELK  
 🔹 **Languages**: Python, Go, Bash, JavaScript  
+🔹 **Security**: RBAC, IAM, Zero Trust Architectures 
+
 
 </div>
 </div>
