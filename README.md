@@ -31,7 +31,7 @@ I am a **Cloud Hashira** with 3+ years of experience specializing in CI/CD autom
 ### Cloud Mastery
 - 🔹 **Cloud Platforms**: <span style="color: #ff6b6b;">AWS (Certified)</span>, <span style="color: #6ba8ff;">Azure</span>
 - 🔹 **Infrastructure as Code**: <span style="color: #8a63ff;">Terraform</span>
-- 🔹 **Containerization**: <span style="color: #4dabf7;">Docker</span>, <span style="color: #4267b2;">Kubernetes (EKS)</span> <img src="./Add-ons/218883.gif" width="100" height="300" alt="Zenitsu Thunder Breathing" style="border-radius: 5px; border: 3px solid #ff2a2a;height="270" width="350" align="right">
+- 🔹 **Containerization**: <span style="color: #4dabf7;">Docker</span>, <span style="color: #4267b2;">Kubernetes (EKS)</span> <img src="./Add-ons/218883.gif" height="270" width="350" align="right">
 - 🔹 **CI/CD**: <span style="color: #2088ff;">GitHub Actions</span>, <span style="color: #ef5b5b;">ArgoCD</span>
 
 ### Technical Arsenal
