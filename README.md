@@ -12,6 +12,7 @@
 <h3 align="center">Cloud DevOps Engineer | Azure & AWS Specialist | Kubernetes Expert</h3>
 
 I am a Cloud DevOps Engineer with 3+ years of experience specializing in CI/CD automation, cloud security, and infrastructure as code (IaC) across Azure and AWS. My expertise lies in designing secure and scalable DevOps pipelines, implementing GitOps workflows with ArgoCD, and optimizing Kubernetes deployments for high availability and security. 
+
 --
 <br>
 
