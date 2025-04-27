@@ -20,7 +20,7 @@
 
 I am a **Cloud Hashira** with 3+ years of experience specializing in CI/CD automation, cloud security, and infrastructure as code (IaC) across Azure and AWS. My expertise lies in designing secure and scalable DevOps pipelines, implementing GitOps workflows with ArgoCD, and optimizing Kubernetes deployments for high availability and security.
 
-</div>
+</div>                                                                                            <img src="./Add-ons/218883.gif">𝓦𝓲𝓫𝓾 𝓐𝓹𝓲</a></p>
 
 ---
 
@@ -44,7 +44,7 @@ I am a **Cloud Hashira** with 3+ years of experience specializing in CI/CD autom
 
 ---
 
-## ⚔️ TECHNICAL EXPERTISE <img src="./Add-ons/218883.gif">𝓦𝓲𝓫𝓾 𝓐𝓹𝓲</a></p>
+## ⚔️ TECHNICAL EXPERTISE 
 
 ### 🛠️ CLOUD & DEVOPS TOOLS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
