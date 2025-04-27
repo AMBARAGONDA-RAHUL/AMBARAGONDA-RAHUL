@@ -50,11 +50,11 @@
   </div>
 </div>
 
-<!-- Technical Expertise Section -->
+                            <!-- Technical Expertise Section -->
 <div style="margin: 40px 0;">
   <h2 align="center" style="border-bottom: 3px double #f71e1e; padding-bottom: 10px; width: 60%; margin: 0 auto 30px;">TECHNICAL EXPERTISE</h2>
 
-  <!-- Cloud & DevOps Tools -->
+                           <!-- Cloud & DevOps Tools -->
   <div style="background: rgba(30, 30, 30, 0.7); padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #f71e1e;">
     <h4 style="color: #f71e1e; margin-top: 0;">🛠️ CLOUD & DEVOPS TOOLS</h4>
     <p align="center">
@@ -67,7 +67,7 @@
     </p>
   </div>
 
-  <!-- Programming Languages -->
+                              <!-- Programming Languages -->
   <div style="background: rgba(30, 30, 30, 0.7); padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #f71e1e;">
     <h4 style="color: #f71e1e; margin-top: 0;">💻 PROGRAMMING LANGUAGES</h4>
     <p align="center">
@@ -77,7 +77,7 @@
     </p>
   </div>
 
-  <!-- Monitoring & Databases -->
+                                <!-- Monitoring & Databases -->
   <div style="background: rgba(30, 30, 30, 0.7); padding: 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #f71e1e;">
     <h4 style="color: #f71e1e; margin-top: 0;">📊 MONITORING & DATABASES</h4>
     <p align="center">
@@ -89,7 +89,7 @@
   </div>
 </div>
 
-<!-- GitHub Stats -->
+                                     <!-- GitHub Stats -->
 <div align="center" style="margin: 40px 0;">
   <div style="border: 2px solid #f71e1e; border-radius: 10px; padding: 20px; display: inline-block; background: rgba(15, 15, 15, 0.7);">
     <h3 style="margin-top: 0; color: #f71e1e;">GITHUB STATS</h3>
@@ -99,7 +99,7 @@
   </div>
 </div>
 
-<!-- Connect Section -->
+                                    <!-- Connect Section -->
 <div align="center" style="margin: 40px 0;">
   <h2 style="border-bottom: 3px solid #f71e1e; padding-bottom: 10px; display: inline-block;">LET'S CONNECT</h2>
   
