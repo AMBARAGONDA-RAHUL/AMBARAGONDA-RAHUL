@@ -79,7 +79,7 @@ I am a Cloud DevOps Engineer with 3+ years of experience specializing in CI/CD a
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="https://www.linkedin.com/in/rahul-ambaragonda-79322127a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:your.email@example.com">
