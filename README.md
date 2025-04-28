@@ -80,9 +80,9 @@ I am a **Cloud Hashira** with 3+ years of experience specializing in CI/CD autom
 
 ## 🌸 LET'S CONNECT
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ambaragonda-79322127a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yourportfolio.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rahulambaragonda@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.azuresimplified.com/myprotifolio.html)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://cloudsimplified.hashnode.dev/)
 
 <p style="color: #ff9999; font-style: italic; text-align: center;">
   "Set your heart ablaze! 🔥 - Rengoku Kyojuro"
