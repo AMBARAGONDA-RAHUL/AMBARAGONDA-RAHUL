@@ -7,7 +7,7 @@
 </p>
 
 <!-- Anime Character GIF -->
-<img src="./Add-ons/218883.gif" width="500" height="100" alt="Zenitsu Thunder Breathing" style="border-radius: 5px; border: 3px solid #ff2a2a;">
+<img src="./Add-ons/218883.gif" width="300" height="100" alt="Zenitsu Thunder Breathing" style="border-radius: 5px; border: 3px solid #ff2a2a;">
 
  <h1 align="center" style="color: gold; font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 48px;">
 ⚡ Breath of the Cloud, First Form: CICD Deployment! ⚡
