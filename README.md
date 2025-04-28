@@ -74,7 +74,7 @@ I am a **Cloud Hashira** with 3+ years of experience specializing in CI/CD autom
 ---
 
 ## 📈 GITHUB STATS
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulAmbaragonda&show_icons=true&theme=dark)](https://github.com/RAHUL-AMBARAGONDA/github-readme-stats)
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHULAMBARAGONDA&show_icons=true&theme=dark)](https://github.com/RAHUL-AMBARAGONDA/github-readme-stats)
 
 ---
 
