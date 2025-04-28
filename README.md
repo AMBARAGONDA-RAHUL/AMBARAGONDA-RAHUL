@@ -73,10 +73,6 @@ I am a **Cloud Hashira** with 3+ years of experience specializing in CI/CD autom
 
 ---
 
-## 📈 GITHUB STATS
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAHULAMBARAGONDA&show_icons=true&theme=dark)](https://github.com/RAHUL-AMBARAGONDA/github-readme-stats)
-
----
 
 ## 🌸 LET'S CONNECT
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ambaragonda-79322127a/)
