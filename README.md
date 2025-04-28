@@ -75,7 +75,7 @@ I am a **Cloud Hashira** with 3+ years of experience specializing in CI/CD autom
 
 
 ## 🌸 LET'S CONNECT
- <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" height="20" width="550" align="middle"> 
+ <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" height="20" width="850" align="middle"> 
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ambaragonda-79322127a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rahulambaragonda@example.com)
