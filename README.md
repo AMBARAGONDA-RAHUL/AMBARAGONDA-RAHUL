@@ -31,8 +31,8 @@ I am a **Cloud Hashira** with 3+ years of experience specializing in CI/CD autom
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; text-align: left; color: #ffdddd;">
 
-### Cloud Mastery  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="550" align="right">
- 🔹 **Cloud Platforms**: <span style="color: #ff6b6b;">AWS (Certified)</span>, <span style="color: #6ba8ff;">Azure</span> 
+### Cloud Mastery  
+ 🔹 **Cloud Platforms**: <span style="color: #ff6b6b;">AWS (Certified)</span>, <span style="color: #6ba8ff;">Azure</span> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="550" align="right">
  
  🔹 **Infrastructure as Code**: <span style="color: #8a63ff;">Terraform</span>
  
@@ -56,9 +56,9 @@ I am a **Cloud Hashira** with 3+ years of experience specializing in CI/CD autom
 ## ⚔️ TECHNICAL EXPERTISE 
 
 ### 🛠️ CLOUD & DEVOPS TOOLS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" width="550" align="right"> 
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" width="550" align="right"> 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
