@@ -31,7 +31,7 @@ I am a **Cloud Hashira** with 3+ years of experience specializing in CI/CD autom
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; text-align: left; color: #ffdddd;">
 
-### Cloud Mastery
+### Cloud Mastery  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="550" align="right">
  🔹 **Cloud Platforms**: <span style="color: #ff6b6b;">AWS (Certified)</span>, <span style="color: #6ba8ff;">Azure</span> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="550" align="right">
  
  🔹 **Infrastructure as Code**: <span style="color: #8a63ff;">Terraform</span>
