@@ -21,7 +21,7 @@
 
 <div style="background: rgba(20, 0, 0, 0.7); padding: 20px; border-radius: 8px; border: 1px dashed #ff2a2a;">
 
-I am a **Cloud Hashira** with 3+ years of experience specializing in CI/CD automation, cloud security, and infrastructure as code (IaC) across Azure and AWS. My expertise lies in designing secure and scalable DevOps pipelines, implementing GitOps workflows with ArgoCD, and optimizing Kubernetes deployments for high availability and security.
+I am a **Cloud Hashira** with 4+ years of experience specializing in CI/CD automation, cloud security, and infrastructure as code (IaC) across Azure and AWS. My expertise lies in designing secure and scalable DevOps pipelines, implementing GitOps workflows with ArgoCD, and optimizing Kubernetes deployments for high availability and security.
 
 </div>                                                                                           
 
