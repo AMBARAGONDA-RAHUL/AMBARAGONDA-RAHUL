@@ -21,7 +21,9 @@
 
 <div style="background: rgba(20, 0, 0, 0.7); padding: 20px; border-radius: 8px; border: 1px dashed #ff2a2a;">
 
-I am a **Cloud Hashira** with 4+ years of experience specializing in CI/CD automation, cloud security, and infrastructure as code (IaC) across Azure and AWS. My expertise lies in designing secure and scalable DevOps pipelines, implementing GitOps workflows with ArgoCD, and optimizing Kubernetes deployments for high availability and security.
+I am a **Cloud Hashira** with over 4 years of experience mastering the art of building secure, scalable, and automated cloud infrastructure. I specialize in designing and implementing robust CI/CD pipelines that accelerate software delivery while embedding security and compliance at every stage. My expertise spans across Azure and AWS cloud platforms, leveraging infrastructure as code (IaC) with Terraform, GitOps workflows using ArgoCD, and advanced Kubernetes orchestration (EKS) to ensure resilient, highly available deployments.
+
+With a passion for transforming complex systems into seamless, developer-friendly environments, I focus on optimizing cloud costs, automating operations, and enforcing zero trust security models. I thrive in fast-paced environments where innovation meets reliability, turning infrastructure challenges into streamlined solutions that empower teams and safeguard business continuity.
 
 </div>                                                                                           
 
