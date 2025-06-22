@@ -84,4 +84,3 @@ My expertise lies in designing secure and scalable DevOps pipelines, implementin
 
 <p align="center" style="color: #ff9999; font-style: italic;">
   "Set your heart ablaze! 🔥 - Rengoku Kyojuro"
-</p>
