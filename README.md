@@ -17,14 +17,17 @@
 </div>
 
 ## 🔥 ABOUT ME
-### *Cloud Slayer ☁️⚔️ | Platform Engineering Sensei 🥷 | Python Sorcerer 🐍*
+### *Cloud Slayer ☁️⚔️ | 5 YOE | Platform Engineering Sensei 🥷 | Python Sorcerer 🐍*
 
 <div style="background: rgba(20, 0, 0, 0.7); padding: 20px; border-radius: 8px; border: 1px dashed #ff2a2a;">
 
 
 ⚡ Automating clouds and building Internal Developer Portals (IDPs) faster than lightning!
+
 🐉 Master of Kubernetes, Terraform, and crafting seamless developer platforms
+
 🛠️ Creating CI/CD magic and platform tools that make engineers’ lives easier
+
 📚 Sharing my spells and scrolls on platform engineering at azuresimplified.com
 
 Sometimes I’m scared of bugs… but with Python and platform engineering powers, I always win! ⚡🔥
