@@ -17,11 +17,18 @@
 </div>
 
 ## 🔥 ABOUT ME
-### *Cloud DevOps Engineer | Azure & AWS Specialist | Kubernetes Expert*
+### *Cloud & DevSecOps Engineer | Platform Engineering Specialist | AWS & Azure Expert*
 
 <div style="background: rgba(20, 0, 0, 0.7); padding: 20px; border-radius: 8px; border: 1px dashed #ff2a2a;">
 
-I am a **Cloud Hashira** with over 4 years of experience mastering the art of building secure, scalable, and automated cloud infrastructure. I specialize in designing and implementing robust CI/CD pipelines that accelerate software delivery while embedding security and compliance at every stage. My expertise spans across Azure and AWS cloud platforms, leveraging infrastructure as code (IaC) with Terraform, GitOps workflows using ArgoCD, and advanced Kubernetes orchestration (EKS) to ensure resilient, highly available deployments.
+
+**I’m a Platform Engineer with 4.5+ years of experience** building secure, scalable, and automated cloud infrastructure that empowers development teams and streamlines operations. I specialize in architecting Kubernetes-native platforms, designing robust GitOps workflows with ArgoCD and SOPS, and implementing modern CI/CD pipelines using GitHub Actions and Terraform.
+
+My expertise spans AWS (EKS, IAM, ALB, S3, RDS), Azure (AKS, Key Vault), container orchestration, infrastructure as code, and observability tooling like Prometheus and Grafana. I have a proven track record of improving deployment velocity by 45%, reducing change failure rates by 30%, and automating security compliance to meet SOC 2 and NIST standards.
+
+I build developer-centric internal platforms including Internal Developer Portals (IDPs) like Backstage, enabling streamlined onboarding, self-service workflows, and infrastructure standardization. Passionate about developer experience and security, I create tools that reduce deployment wait times by over 60%.
+
+As the creator of azuresimplified.com, I enjoy sharing cloud knowledge and contributing to the platform engineering community.
 
 With a passion for transforming complex systems into seamless, developer-friendly environments, I focus on optimizing cloud costs, automating operations, and enforcing zero trust security models. I thrive in fast-paced environments where innovation meets reliability, turning infrastructure challenges into streamlined solutions that empower teams and safeguard business continuity.
 
