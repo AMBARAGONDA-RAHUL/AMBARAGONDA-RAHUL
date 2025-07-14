@@ -17,38 +17,17 @@
 </div>
 
 ## 🔥 ABOUT ME
-### *Cloud & DevSecOps Engineer | Platform Engineering Specialist | AWS & Azure Expert*
+### *Cloud Slayer ☁️⚔️ | Platform Engineering Sensei 🥷 | Python Sorcerer 🐍*
 
 <div style="background: rgba(20, 0, 0, 0.7); padding: 20px; border-radius: 8px; border: 1px dashed #ff2a2a;">
 
 
-🚀 4.5+ years building secure, scalable, and automated cloud infrastructure
-☸️ Architect Kubernetes-native platforms & GitOps workflows with ArgoCD + SOPS
-⚙️ Design modern CI/CD pipelines using GitHub Actions & Terraform
+⚡ Automating clouds and building Internal Developer Portals (IDPs) faster than lightning!
+🐉 Master of Kubernetes, Terraform, and crafting seamless developer platforms
+🛠️ Creating CI/CD magic and platform tools that make engineers’ lives easier
+📚 Sharing my spells and scrolls on platform engineering at azuresimplified.com
 
-Expertise
-Cloud: AWS (EKS, IAM, ALB, S3, RDS), Azure (AKS, Key Vault)
-
-Containers: Kubernetes, Docker, orchestration & autoscaling
-
-IaC & Automation: Terraform, Ansible, GitOps
-
-Observability: Prometheus, Grafana, Loki
-
-Security & Compliance: SOC 2, NIST, zero trust models
-
-Key Contributions
-Improved deployment velocity by 45% and reduced change failure rate by 30%
-
-Built Internal Developer Portals (IDPs) like Backstage to streamline onboarding & self-service
-
-Reduced developer wait times by 60% through self-service tools and automation
-
-Automated security compliance pipelines, meeting SOC 2 & NIST standards
-
-Creator of azuresimplified.com, sharing cloud & platform engineering insights
-
-🔥 Passionate about transforming complex infrastructure into seamless, developer-friendly environments that empower teams and ensure business continuity.
+Sometimes I’m scared of bugs… but with Python and platform engineering powers, I always win! ⚡🔥
 
 </div>                                                                                           
 
