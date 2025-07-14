@@ -22,15 +22,33 @@
 <div style="background: rgba(20, 0, 0, 0.7); padding: 20px; border-radius: 8px; border: 1px dashed #ff2a2a;">
 
 
-**I’m a Platform Engineer with 4.5+ years of experience** building secure, scalable, and automated cloud infrastructure that empowers development teams and streamlines operations. I specialize in architecting Kubernetes-native platforms, designing robust GitOps workflows with ArgoCD and SOPS, and implementing modern CI/CD pipelines using GitHub Actions and Terraform.
+🚀 4.5+ years building secure, scalable, and automated cloud infrastructure
+☸️ Architect Kubernetes-native platforms & GitOps workflows with ArgoCD + SOPS
+⚙️ Design modern CI/CD pipelines using GitHub Actions & Terraform
 
-My expertise spans AWS (EKS, IAM, ALB, S3, RDS), Azure (AKS, Key Vault), container orchestration, infrastructure as code, and observability tooling like Prometheus and Grafana. I have a proven track record of improving deployment velocity by 45%, reducing change failure rates by 30%, and automating security compliance to meet SOC 2 and NIST standards.
+Expertise
+Cloud: AWS (EKS, IAM, ALB, S3, RDS), Azure (AKS, Key Vault)
 
-I build developer-centric internal platforms including Internal Developer Portals (IDPs) like Backstage, enabling streamlined onboarding, self-service workflows, and infrastructure standardization. Passionate about developer experience and security, I create tools that reduce deployment wait times by over 60%.
+Containers: Kubernetes, Docker, orchestration & autoscaling
 
-As the creator of azuresimplified.com, I enjoy sharing cloud knowledge and contributing to the platform engineering community.
+IaC & Automation: Terraform, Ansible, GitOps
 
-With a passion for transforming complex systems into seamless, developer-friendly environments, I focus on optimizing cloud costs, automating operations, and enforcing zero trust security models. I thrive in fast-paced environments where innovation meets reliability, turning infrastructure challenges into streamlined solutions that empower teams and safeguard business continuity.
+Observability: Prometheus, Grafana, Loki
+
+Security & Compliance: SOC 2, NIST, zero trust models
+
+Key Contributions
+Improved deployment velocity by 45% and reduced change failure rate by 30%
+
+Built Internal Developer Portals (IDPs) like Backstage to streamline onboarding & self-service
+
+Reduced developer wait times by 60% through self-service tools and automation
+
+Automated security compliance pipelines, meeting SOC 2 & NIST standards
+
+Creator of azuresimplified.com, sharing cloud & platform engineering insights
+
+🔥 Passionate about transforming complex infrastructure into seamless, developer-friendly environments that empower teams and ensure business continuity.
 
 </div>                                                                                           
 
