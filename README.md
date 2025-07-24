@@ -39,13 +39,13 @@ Sometimes I hallucinate insights… but with Python, SQL, and cloud, I always fi
 
 ### Business Intelligence & ML Mastery  
  🔹 **Languages**: <span style="color: #3776ab;">Python (Pandas, Scikit-learn, XGBoost)</span>, <span style="color: #ffcc00;">SQL</span>, <span style="color: #ff9999;">R (ggplot2)</span>
- 
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" width="450" align="right"> 
  🔹 **Analytics Tools**: <span style="color: #9ad0f5;">Power BI (DAX)</span>, <span style="color: #fdd835;">Tableau</span>, <span style="color: #88ccff;">Excel</span>
  
  🔹 **ETL & Cloud**: <span style="color: #4dabf7;">Airflow</span>, <span style="color: #ff9999;">AWS (Lambda, S3, RDS)</span>, <span style="color: #f9a825;">Snowflake</span>
 
  🔹 **Data Science & ML**: <span style="color: #f06292;">Predictive Modeling</span>, <span style="color: #00c853;">A/B Testing</span>, <span style="color: #ff6f00;">Anomaly Detection</span>
- <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" width="450" align="right"> 
+ 
 ### AI Projects & Tools  
  🔹 **MindVault AI**: Personal knowledge search engine with NLP + embeddings
  
