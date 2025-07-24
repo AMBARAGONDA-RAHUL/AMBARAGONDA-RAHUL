@@ -45,7 +45,7 @@ Sometimes I hallucinate insights… but with Python, SQL, and cloud, I always fi
  🔹 **ETL & Cloud**: <span style="color: #4dabf7;">Airflow</span>, <span style="color: #ff9999;">AWS (Lambda, S3, RDS)</span>, <span style="color: #f9a825;">Snowflake</span>
 
  🔹 **Data Science & ML**: <span style="color: #f06292;">Predictive Modeling</span>, <span style="color: #00c853;">A/B Testing</span>, <span style="color: #ff6f00;">Anomaly Detection</span>
-
+ <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" width="450" align="right"> 
 ### AI Projects & Tools  
  🔹 **MindVault AI**: Personal knowledge search engine with NLP + embeddings
  
@@ -61,7 +61,7 @@ Sometimes I hallucinate insights… but with Python, SQL, and cloud, I always fi
 
 ## ⚔️ TECHNICAL EXPERTISE 
 
-### 🛠️ DATA & CLOUD STACK   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" width="450" align="right"> 
+### 🛠️ DATA & CLOUD STACK  
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
