@@ -1,99 +1,76 @@
- <div align="center">
+<div align="center">
 
-<!-- Anime Style Header with Demon Slayer Theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=800&size=35&duration=4000&pause=1000&color=F71E1E&center=true&vCenter=true&width=600&height=90&lines=%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83THIS+IS+RAHUL;DevOps+Engineer;CLOUD+HASHIRA+%F0%9F%94%A5" alt="Animated Demon Slayer Title">
+<!-- Professional Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=800&size=35&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&height=90&lines=RAHUL+AMBARAGONDA;Data+Analyst+%7C+Data+Scientist+in+progress;Making+data+work+for+business+%F0%9F%93%88" alt="Typing SVG">
 
-<p style="color: #ff9999; font-style: italic;">
-</p>
+<!-- Highlight GIF (replace path if needed) -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="180" alt="Data Animation" style="border-radius: 5px; border: 2px solid #1E90FF;">
 
-<!-- Anime Character GIF -->
-<img src="./Add-ons/218883.gif" width="1800" height="200" alt="Zenitsu Thunder Breathing" style="border-radius: 5px; border: 3px solid #ff2a2a;">
-
- <h3 align="center" style="color: gold; font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 48px;">
-⚡ Breath of the Cloud, First Form: CICD Deployment! ⚡
+<h3 align="center" style="color: #20B2AA; font-family: 'Trebuchet MS', sans-serif; font-size: 28px;">
+📊 Data-Driven Impact. Real-World Projects. AI-Enabled Thinking.
 </h3>
-
-
-</div>
-
-## 🔥 ABOUT ME
-### *Cloud Slayer ☁️⚔️ | 5 YOE | Platform Engineering Sensei 🥷 | Python Sorcerer 🐍*
-
-<div style="background: rgba(20, 0, 0, 0.7); padding: 20px; border-radius: 8px; border: 1px dashed #ff2a2a;">
-
-
-⚡ Automating clouds and building Internal Developer Portals (IDPs) faster than lightning!
-
-🐉 Master of Kubernetes, Terraform, and crafting seamless developer platforms
-
-🛠️ Creating CI/CD magic and platform tools that make engineers’ lives easier
-
-📚 Sharing my spells and scrolls on platform engineering at azuresimplified.com
-
-Sometimes I’m scared of bugs… but with Python and platform engineering powers, I always win! ⚡🔥
-
-</div>                                                                                           
-
----
-
-## 🚀 PROFESSIONAL PROFILE
-
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; text-align: left; color: #ffdddd;">
-
-### Cloud Mastery  
- 🔹 **Cloud Platforms**: <span style="color: #ff6b6b;">AWS (Certified)</span>, <span style="color: #6ba8ff;">Azure</span> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="550" align="right">
- 
- 🔹 **Infrastructure as Code**: <span style="color: #8a63ff;">Terraform</span>
- 
- 🔹 **Containerization**: <span style="color: #4dabf7;">Docker</span>, <span style="color: #4267b2;">Kubernetes (EKS)</span> 
- 
- 🔹 **CI/CD**: <span style="color: #2088ff;">GitHub Actions</span>, <span style="color: #ef5b5b;">ArgoCD</span>
-
-### Technical Arsenal
- 🔹 **Monitoring**: <span style="color: #e6522c;">Prometheus</span>, <span style="color: #f46800;">Grafana</span>
- 
- 🔹 **Languages**: <span style="color: #3776ab;">Python</span>, <span style="color: #00add8;">Go</span>
- 
- 🔹 **Security**: <span style="color: #ff6b6b;">RBAC</span>, <span style="color: #ff2a2a;">Zero Trust</span>
- 
- 🔹 **Databases**: <span style="color: #316192;">PostgreSQL</span>, <span style="color: #4479A1;">MySQL</span>
-
 </div>
 
 ---
 
-## ⚔️ TECHNICAL EXPERTISE 
+## 🔍 ABOUT ME
+### *Analytics Craftsman | Business + Data Translator | LLM Explorer*
 
-### 🛠️ CLOUD & DEVOPS TOOLS       <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" width="550" align="right"> 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### 💻 PROGRAMMING LANGUAGES 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-### 📊 MONITORING & DATABASES
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+🎯 4+ years bridging **finance + data science**, delivering insights that drive business strategy  
+📈 Passionate about **data storytelling**, **predictive analytics**, and **building smart AI workflows**  
+🚀 Always learning — currently building: `MindVault AI` 🧠📂
 
 ---
 
+## 🚀 PROFESSIONAL SUMMARY
 
-## 🌸 LET'S CONNECT
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ambaragonda-79322127a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rahulambaragonda@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.azuresimplified.com/myprotifolio.html)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://cloudsimplified.hashnode.dev/)
+- 💼 Data Analyst @ Morgan Stanley — Deployed predictive models (85% accuracy), automated ETL pipelines (Power BI, SQL), and drove strategic reporting
+- 💰 Financial Analyst @ Mahindra Finance — Built LBO & DCF models, streamlined reporting (35% faster), enabled data-driven decisions
+- 📊 Skills: SQL, Power BI, Python, R, Airflow, AWS, dbt, ChromaDB, LangChain, Streamlit, FastAPI
+- 🎓 MSc IT – Project Management | Cybersecurity Undergrad
 
-<p style="color: #ff9999; font-style: italic; text-align: center;">
-  "Set your heart ablaze! 🔥 - Rengoku Kyojuro"
+---
+
+## 💼 CORE TOOLS & TECH
+
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-ff1493?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-LangChain-0A0A0A?style=for-the-badge)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 🔥 PROJECTS
+
+### ⚙️ Credit Card Fraud Detection
+- Built ML model on 284K+ transactions: **98.7% precision**, **79.6% recall**
+- Used Python, Random Forest, Git, and visualized with Matplotlib
+- Enabled real-time fraud detection pipeline suggestion with **FastAPI + SMOTE**
+
+### 🧠 MindVault AI – Personal Knowledge Retrieval System *(Ongoing)*
+- Built NLP system to search user notes/files via semantic prompts  
+- Indexed unstructured data using OpenAI embeddings + ChromaDB vector DB  
+- Created visual dashboards with Streamlit & Pandas to reveal learning trends  
+- **Outcome**: Enhances productivity & long-term memory for professionals & students
+
+<div align="center">
+  <img src="/mnt/data/A_2D_digital_flowchart_diagram_illustrates_the_arc.png" alt="MindVault AI Architecture" width="700" style="border-radius: 10px; border: 1px solid #ccc;">
+  <br><em>🧠 Architecture Overview: OCR → Embedding → Vector Store → FastAPI Search + Dashboard</em>
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ambaragonda-79322127a/) 
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) 
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://cloudsimplified.hashnode.dev/)
+
+<p align="center" style="color: gray; font-style: italic;">
+  "Where data meets purpose, insight meets execution."
 </p>
 
