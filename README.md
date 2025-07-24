@@ -61,7 +61,7 @@ Sometimes I hallucinate insights… but with Python, SQL, and cloud, I always fi
 
 ## ⚔️ TECHNICAL EXPERTISE 
 
-### 🛠️ DATA & CLOUD STACK       <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" width="550" align="right"> 
+### 🛠️ DATA & CLOUD STACK   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" width="450" align="right"> 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23007ACC.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
