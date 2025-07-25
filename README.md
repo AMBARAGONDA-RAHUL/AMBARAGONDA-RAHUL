@@ -40,7 +40,7 @@ Sometimes I hallucinate insights… but with Python, SQL, and cloud, I always fi
 ### Business Intelligence & ML Mastery  
  🔹 **Languages**: <span style="color: #3776ab;">Python (Pandas, Scikit-learn, XGBoost)</span>, <span style="color: #ffcc00;">SQL</span>, <span style="color: #ff9999;">R (ggplot2)</span;">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="150" width="250" align="right"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" height="250" width="350" align="right"> 
 
  🔹 **Analytics Tools**: <span style="color: #9ad0f5;">Power BI (DAX)</span>, <span style="color: #fdd835;">Tableau</span>, <span style="color: #88ccff;">Excel</span>
  
