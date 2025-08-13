@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Anime Style Header with Demon Slayer Theme -->
-<img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=800&size=35&duration=4000&pause=1000&color=F71E1E&center=true&vCenter=true&width=600&height=90&lines=%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83THIS+IS+RAHUL;Data+Analyst+%26+Scientist;AI+MEMORY+HASHIRA+%F0%9F%94%A5" alt="Animated Demon Slayer Title">
+<img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=800&size=35&duration=4000&pause=1000&color=F71E1E&center=true&vCenter=true&width=600&height=90&lines=%E9%AC%BC%E6%BB%85%E3%81%AE%E5%88%83THIS+IS+RAHUL;Financial Analyst+%26+Scientist;AI+MEMORY+HASHIRA+%F0%9F%94%A5" alt="Animated Demon Slayer Title">
 
 <p style="color: #ff9999; font-style: italic;"></p>
 
