@@ -9,7 +9,7 @@
 <img src="./Add-ons/218883.gif" width="1800" height="200" alt="Zenitsu Thunder Breathing" style="border-radius: 5px; border: 3px solid #ff2a2a;">
 
  <h3 align="center" style="color: gold; font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 48px;">
-⚡ Breath of the Cloud, First Form: AI-Powered Analytics! ⚡
+⚡ Breath of the Ledger, First Form: AI-Powered Financial Analytics! ⚡
 </h3>
 
 </div>
